@@ -101,7 +101,7 @@ It does NOT rely on heavy background services, ensuring minimal overhead.
 ## ⚠️ Important Notes
 
 - This module is still under active development
-- Performance results may vary depending on ROM (AOSP / HyperOS / MIUI / custom ports)
+- Performance results may vary depending on ROM (Designed for HyperOS not working in aosp or other ROMs)
 - Aggressive kernel modifications are avoided for stability
 - Designed for balanced daily usage, not extreme overclocking
 
