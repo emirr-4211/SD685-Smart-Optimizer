@@ -1,4 +1,4 @@
-# SD685 Smart Optimizer
+# SD685 Smart Optimizer For HyperOS
 
 Zero-lag UI • Adaptive Game Boost • Thermal-Aware Performance Control  
 Designed specifically for Snapdragon 685 devices (e.g. Redmi Note 12 4G)
