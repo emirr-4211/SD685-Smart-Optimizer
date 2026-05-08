@@ -113,7 +113,6 @@ It does NOT rely on heavy background services, ensuring minimal overhead.
 - Tested primarily on:
   - Redmi Note 12 4G
   - HyperOS / MIUI-based ROMs
-  - AOSP-based systems (partial compatibility)
 
 ---
 
